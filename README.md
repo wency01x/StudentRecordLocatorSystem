@@ -2,7 +2,6 @@
 
 **Requested by the Office of the University Registrar - USTP CDO**
 
-LocatR is a desktop application designed to manage student records, including their ID, name, program, and its location. This project was developed in Python using CustomTkinter for the GUI, SQLite for data storage, and QRCode for record sharing. The system allows adding, editing, deleting, and searching students efficiently, with a clean and intuitive interface.
 
 ---
 
